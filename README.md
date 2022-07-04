@@ -1,7 +1,7 @@
 
 
 
-Website hosted on [vejoedashboard.pythonanywhere.com](<vejoedashboard.pythonanywhere.com>). Somehow it still shows data until 20.06, even if it's not paid anymore.
+Website hosted on [vejoedashboard.pythonanywhere.com](vejoedashboard.pythonanywhere.com). Somehow it still shows data until 20.06, even if it's not paid anymore.
 Developed for veJOE Leaderboard Bounty in April 2022. Not developed anymore both because of existing better alternatives, lack of interest, and absolute decimation of competitors by Vector Finance. Not updated to exclude deprecated farms.
 
 
