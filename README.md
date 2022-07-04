@@ -13,7 +13,7 @@ To install locally and see current data:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pecio222/TODO.git
+   git clone https://github.com/pecio222/veJOE_leaderboard.git
    ```
 2. Install dependencies
    ```sh
