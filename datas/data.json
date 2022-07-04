@@ -1,0 +1,76 @@
+
+{
+    "protocolAdresses":
+        {
+            "Beefy": "0x1f2a8034f444dc55f963fb5925a9b6eb744eee2c",
+            "Yield Yak": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "Northpole": "0xf30e775240d4137daea097109fea882c406d61cc",
+            "Vector Finance": "0x0e25c07748f727d6cccd7d2711fd7bd13d13422d",
+            "multisig2": "0x799d4c5e577cf80221a076064a2054430d2af5cd",
+            "teamDummyContract": "0x3876183b75916e20d2adab202d1a3f9e9bf320ad",
+            "1whale-f6f63c": "0x0617d1ca9762876fd56034e7c5917ab659f6f63c",
+            "2whale-b0985f": "0x4ae958b4de0e6f21d51e73625fb9d5e0c3b0985f",
+            "3whale-ac2cbe": "0x861a32ca909de30e91cb1678838a439256ac2cbe",
+            "Steakhunt Finance": "0x1ab6b2f60a7e8da9d521cf8f90b2a5b5d314b3a6"
+        },
+
+    "actualProtocolAdresses":
+        {
+            "Beefy": "0x1f2a8034f444dc55f963fb5925a9b6eb744eee2c",
+            "Yield Yak": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "Northpole": "0xf30e775240d4137daea097109fea882c406d61cc",
+            "Vector Finance": "0x0e25c07748f727d6cccd7d2711fd7bd13d13422d",
+            "Steakhunt Finance": "0x1ab6b2f60a7e8da9d521cf8f90b2a5b5d314b3a6"
+        },
+
+
+    "contracts":
+        {
+            "boostedMasterchef": "0x4483f0b6e2f5486d06958c20f8c39a7abe87bf8f",
+            "JOEToken": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "veJOEStaking": "0x25d85e17dd9e544f6e9f8d44f99602dbf5a97341",
+            "veJOEToken": "0x3cabf341943bc8466245e4d6f1ae0f8d071a1456",
+            "chainlinkAVAX": "0x0a77230d17318075983913bc2145db16c7366156"
+        },
+
+    "boostedFarmsAddresses":
+        {
+            "0": "0xf4003f4efbe8691b60249e6afbd307abe7758adb",
+            "1": "0xfe15c2695f1f920da45c30aae47d11de51007af9",
+            "2": "0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256",
+            "3": "0xa389f9430876455c36478deea9769b7ca4e3ddb1",
+            "4": "0x781655d802670bba3c89aebaaea59d3182fd755d",
+            "5": "0xd5a37dc5c9a396a03dd1136fc76a1a02b1c88ffa",
+            "6": "0x454e67025631c065d3cfad6d71e6892f74487a15",
+            "7": "0x3bc40d4307cd946157447cd55d70ee7495ba6140",
+            "8": "0x2a8a315e82f85d1f0658c5d66a452bbdd9356783",
+            "9": "0x74b651eff97871ea99fcc14423e611d85eb0ea93",
+            "10": "0x6f3a0c89f611ef5dc9d96650324ac633d02265d3",
+            "11": "0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742",
+            "12": "0xbb4646a764358ee93c2a9c4a147d5aded527ab73"
+        },
+        "farmData":
+        {
+            "WAVAX-USDC": ["0", "0xf4003f4efbe8691b60249e6afbd307abe7758adb", "avax", 0],
+            "WETH.e-WAVAX": ["1", "0xfe15c2695f1f920da45c30aae47d11de51007af9", "avax", 1],
+            "WAVAX-USDT.e": ["2", "0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256", "avax", 0],
+            "USDC.e-WAVAX": ["3", "0xa389f9430876455c36478deea9769b7ca4e3ddb1", "avax", 1],
+            "MIM-WAVAX": ["4", "0x781655d802670bba3c89aebaaea59d3182fd755d", "avax", 1],
+            "WBTC.e-WAVAX": ["5", "0xd5a37dc5c9a396a03dd1136fc76a1a02b1c88ffa", "avax", 1],
+            "JOE-WAVAX": ["6", "0x454e67025631c065d3cfad6d71e6892f74487a15", "avax", 1],
+            "JOE-USDC": ["7", "0x3bc40d4307cd946157447cd55d70ee7495ba6140", "stable", 1],
+            "USDC-USDC.e": ["8", "0x2a8a315e82f85d1f0658c5d66a452bbdd9356783", "stable", 1],
+            "USDt-USDT.e": ["9", "0x74b651eff97871ea99fcc14423e611d85eb0ea93", "stable", 1],
+            "LINK.e-WAVAX": ["10", "0x6f3a0c89f611ef5dc9d96650324ac633d02265d3", "avax", 1],
+            "BNB-WAVAX": ["11", "0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742", "avax", 1],
+            "USDt-WAVAX": ["12", "0xbb4646a764358ee93c2a9c4a147d5aded527ab73", "avax", 1]
+
+
+        }
+        
+    
+
+
+
+
+}

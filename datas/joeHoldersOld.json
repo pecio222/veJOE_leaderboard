@@ -1,0 +1,15 @@
+[
+    
+    {"name": "sJOE", "address": "0x1a731b2299e22fbac282e7094eda41046343cb51"},
+    {"name": "Multisig1", "address": "0xd858ebaa943b4c2fb06ba0ba8920a132fd2410ee"},
+    {"name": "Multisig2", "address": "0x799d4c5e577cf80221a076064a2054430d2af5cd"},
+    {"name": "veJOE", "address": "0x25d85e17dd9e544f6e9f8d44f99602dbf5a97341"},
+    {"name": "JOE-AVAX LP", "address": "0x454e67025631c065d3cfad6d71e6892f74487a15"},
+    {"name": "whale1", "address": "0x279f8940ca2a44c35ca3edf7d28945254d0f0ae6"},
+    {"name": "xJOE", "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33"},
+    {"name": "2nd Team Vesting", "address": "0xfea7879bf27b4461de9a9b8a03dbcc7f49c52bea"},
+    {"name": "Multisig3", "address": "0x8f38558188fae593e8e6347f124351cf4fdd032d"},
+    {"name": "rJOE", "address": "0x102d195c3ee8bf8a9a89d63fb3659432d3174d81"},
+    {"name": "JOE-USDC LP", "address": "0x3bc40d4307cd946157447cd55d70ee7495ba6140"}
+    
+]
